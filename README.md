@@ -7,6 +7,8 @@ This Flutter app features:
 1) Expense Tracking: Record your spending and keep track of how much you’ve spent over the week.
 2) Intuitive UI: Built using Flutter's powerful widgets like Containers, Cards, and Text Buttons to ensure a clean and user-friendly interface.
 3) Custom Styling: Enjoy a personalized experience with custom styling and design elements.
+
+
 ##Features
 1) Weekly Expense Recording: Add, edit, and view expenses for the week.
 2) Interactive UI: Utilize Flutter’s Containers and Cards to display data effectively.
