@@ -9,7 +9,7 @@ This Flutter app features:
 3) Custom Styling: Enjoy a personalized experience with custom styling and design elements.
 
 
-##Features
+## Features
 1) Weekly Expense Recording: Add, edit, and view expenses for the week.
 2) Interactive UI: Utilize Flutter’s Containers and Cards to display data effectively.
 3) User-Friendly Controls: Navigate through the app with easily accessible Text Buttons and controls.
