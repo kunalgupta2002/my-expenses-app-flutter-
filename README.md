@@ -1,16 +1,13 @@
-# my_expense
+# Personal Expenses Tracker 📊
+Excited to share my latest project—a simple yet effective personal expenses tracker built with Flutter and Dart! 🎉 This app allows you to effortlessly record and manage your weekly spending, helping you keep track of your finances with ease.
 
-A new Flutter project.
+## Overview
+This Flutter app features:
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1) Expense Tracking: Record your spending and keep track of how much you’ve spent over the week.
+2) Intuitive UI: Built using Flutter's powerful widgets like Containers, Cards, and Text Buttons to ensure a clean and user-friendly interface.
+3) Custom Styling: Enjoy a personalized experience with custom styling and design elements.
+##Features
+1) Weekly Expense Recording: Add, edit, and view expenses for the week.
+2) Interactive UI: Utilize Flutter’s Containers and Cards to display data effectively.
+3) User-Friendly Controls: Navigate through the app with easily accessible Text Buttons and controls.
